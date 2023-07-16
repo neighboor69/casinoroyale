@@ -59,7 +59,7 @@ const Banner = () => {
               <div className="arrowFour"></div>
               <div className="arrowFive"></div>
               <Image
-                src="images/Banner/banner1.png"
+                src={'images/Banner/banner1.png'}
                 alt="nothing"
                 width={800}
                 height={500}
