@@ -8,25 +8,25 @@ interface featuresdata {
 
 const featuresdata: featuresdata[] = [
   {
-    imgSrc: './images/Features/featureThree.svg',
+    imgSrc: 'images/Features/featureThree.svg',
     heading: 'Redeemable Freeplay',
     subheading:
       'Looking to play first with out any deposit!? Our online platform allows to play and win without deposits!',
   },
   {
-    imgSrc: './images/Features/featureOne.svg',
+    imgSrc: 'images/Features/featureOne.svg',
     heading: 'Low Minimum Deposit',
     subheading:
       'Play without being forced to meet a high minimum to enjoy your favorite games.',
   },
   {
-    imgSrc: './images/Features/featureTwo.svg',
+    imgSrc: 'images/Features/featureTwo.svg',
     heading: 'Instant Redeemable',
     subheading:
       'Forget the day or even hour long waiting to redeem your winnings. Check this list for the instant redeems.',
   },
   {
-    imgSrc: './images/Features/featureThree.svg',
+    imgSrc: 'images/Features/featureThree.svg',
     heading: 'Huge Bonuses With Depsits',
     subheading:
       'Get more bang for your buck! Get huge deposit bonuses when you deposit to play your favorite games.',
