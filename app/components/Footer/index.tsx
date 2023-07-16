@@ -22,10 +22,10 @@ const products: ProductType[] = [
 ];
 
 const socialLinks: Social[] = [
-  { imgsrc: './images/Footer/insta.svg', href: 'https://instagram.com/' },
-  { imgsrc: './images/Footer/dribble.svg', href: 'https://dribble.com/' },
-  { imgsrc: './images/Footer/twitter.svg', href: 'https://twitter.com/' },
-  { imgsrc: './images/Footer/youtube.svg', href: 'https://youtube.com/' },
+  { imgsrc: 'images/Footer/insta.svg', href: 'https://instagram.com/' },
+  { imgsrc: 'images/Footer/dribble.svg', href: 'https://dribble.com/' },
+  { imgsrc: 'images/Footer/twitter.svg', href: 'https://twitter.com/' },
+  { imgsrc: 'images/Footer/youtube.svg', href: 'https://youtube.com/' },
 ];
 
 const footer = () => {
@@ -39,7 +39,7 @@ const footer = () => {
           <div className="col-span-6">
             <img
               className="block h-12 w-20px mb-4"
-              src={'./images/Logo/logo.svg'}
+              src={'images/Logo/logo.svg'}
               alt="Crypto-Logo"
             />
             <h3 className="text-lightblue text-sm font-normal leading-9 mb-4 lg:mb-16">
@@ -87,7 +87,7 @@ const footer = () => {
             <h3 className="text-white text-xl font-medium mb-9">Contact Us</h3>
             <h4 className="text-offwhite text-sm font-normal mb-6 flex gap-2">
               <Image
-                src={'./images/Footer/number.svg'}
+                src={'images/Footer/number.svg'}
                 alt="number-icon"
                 width={20}
                 height={20}
@@ -96,7 +96,7 @@ const footer = () => {
             </h4>
             <h4 className="text-offwhite text-sm font-normal mb-6 flex gap-2">
               <Image
-                src={'./images/Footer/email.svg'}
+                src={'images/Footer/email.svg'}
                 alt="email-icon"
                 width={20}
                 height={20}
@@ -105,7 +105,7 @@ const footer = () => {
             </h4>
             <h4 className="text-offwhite text-sm font-normal mb-6 flex gap-2">
               <Image
-                src={'./images/Footer/address.svg'}
+                src={'images/Footer/address.svg'}
                 alt="address-icon"
                 width={20}
                 height={20}

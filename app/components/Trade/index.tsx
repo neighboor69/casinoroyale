@@ -9,7 +9,7 @@ const Trade = () => {
         {/* Column-1 */}
         <div>
           <Image
-            src={'./images/Trade/jackpot.png'}
+            src={'images/Trade/jackpot.png'}
             alt="macBook-image"
             width={787}
             height={512}
@@ -29,28 +29,28 @@ const Trade = () => {
           </p>
           <div className="flex justify-between">
             <Image
-              src={'./images/Trade/mac.svg'}
+              src={'images/Trade/mac.svg'}
               alt="macOS-image"
               width={61}
               height={105}
             />
             <div className="verticalLine"></div>
             <Image
-              src={'./images/Trade/appstore.svg'}
+              src={'images/Trade/appstore.svg'}
               alt="appstore-image"
               width={80}
               height={105}
             />
             <div className="verticalLine"></div>
             <Image
-              src={'./images/Trade/windows.svg'}
+              src={'images/Trade/windows.svg'}
               alt="windows-image"
               width={80}
               height={105}
             />
             <div className="verticalLine"></div>
             <Image
-              src={'./images/Trade/android.svg'}
+              src={'images/Trade/android.svg'}
               alt="android-image"
               width={71}
               height={105}

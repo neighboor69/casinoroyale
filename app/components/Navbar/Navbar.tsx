@@ -37,7 +37,7 @@ const Navbar = () => {
               <div className="flex flex-shrink-0 items-center">
                 <img
                   className="block h-10 w-20px lg:hidden"
-                  src={'./images/Logo/logo-no-background.svg'}
+                  src={'images/Logo/logo-no-background.svg'}
                   alt="Crypto-Logo"
                 />
                 <img
