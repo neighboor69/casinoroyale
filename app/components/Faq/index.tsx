@@ -79,7 +79,7 @@ const Faq = () => {
           {/* Column-2 */}
           <div className="mt-32">
             <Image
-              src={'/images/Faq/faq.svg'}
+              src={'images/Faq/faq.svg'}
               alt="faq-image"
               width={941}
               height={379}

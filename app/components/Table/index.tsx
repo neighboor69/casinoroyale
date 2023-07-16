@@ -11,37 +11,37 @@ const tableData: table[] = [
   {
     name: 'MILKYWAY',
     link: 'https://milkywayapp.xyz/',
-    imgSrc: '/images/Table/cryptoone.svg',
+    imgSrc: './images/Table/cryptoone.svg',
   },
   {
     name: 'ORIONSTAR',
     link: 'https://www.orionstarsonline.com/ ',
-    imgSrc: '/images/Table/cryptoone.svg',
+    imgSrc: './images/Table/cryptoone.svg',
   },
   {
     name: 'FIREKIRIN',
     link: 'https://firekirin.com/ ',
-    imgSrc: '/images/Table/cryptoone.svg',
+    imgSrc: './images/Table/cryptoone.svg',
   },
   {
     name: 'JUWA 777',
     link: 'http://dl.juwa777.com/',
-    imgSrc: '/images/Table/cryptoone.svg',
+    imgSrc: './images/Table/cryptoone.svg',
   },
   {
     name: 'PANDA MASTER',
     link: 'https://pandamaster.vip:8888/index.html',
-    imgSrc: '/images/Table/cryptoone.svg',
+    imgSrc: './images/Table/cryptoone.svg',
   },
   {
     name: 'GAME VAULT',
     link: 'http://download.gamevault999.com/',
-    imgSrc: '/images/Table/cryptoone.svg',
+    imgSrc: './images/Table/cryptoone.svg',
   },
   {
     name: 'ULTRA MONSTER',
     link: 'https://www.ultrapanda.mobi/',
-    imgSrc: '/images/Table/cryptoone.svg',
+    imgSrc: './images/Table/cryptoone.svg',
   },
 ];
 
@@ -101,7 +101,7 @@ const Table = () => {
         </div>
       </div>
       <Image
-        src={'/images/Table/Untitled.svg'}
+        src={'images/Table/Untitled.svg'}
         alt="ellipse"
         width={2460}
         height={102}
