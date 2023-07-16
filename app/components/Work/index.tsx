@@ -15,19 +15,19 @@ interface workdata {
 
 const workdata: workdata[] = [
   // {
-  //     imgSrc: '/images/Work/icon-one.svg',
+  //     imgSrc: 'images/Work/icon-one.svg',
   //     heading: 'Create Account',
   //     subheading: 'Contact us through our Facebook page',
   //     hiddenpara: 'Choose the game you want to play',
   // },
   // {
-  //     imgSrc: '/images/Work/icon-two.svg',
+  //     imgSrc: 'images/Work/icon-two.svg',
   //     heading: 'Find your Credit',
   //     subheading: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry and this',
   //     hiddenpara: 'standard dummy text ever since the 1500s, when an unknownprinter took a galley of type and scrambled it to make a type specimen book. It has survived...',
   // },
   // {
-  //     imgSrc: '/images/Work/icon-three.svg',
+  //     imgSrc: 'images/Work/icon-three.svg',
   //     heading: 'Exchange Currency',
   //     subheading: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry and this',
   //     hiddenpara: 'standard dummy text ever since the 1500s, when an unknownprinter took a galley of type and scrambled it to make a type specimen book. It has survived...',
@@ -35,43 +35,43 @@ const workdata: workdata[] = [
   {
     name: 'MILKYWAY',
     link: 'https://milkywayapp.xyz/',
-    imgSrc: '/images/Work/icon-seven.svg',
+    imgSrc: 'images/Work/icon-seven.svg',
     desc: 'Milky way games are available to download and play.',
   },
   {
     name: 'ORIONSTAR',
     link: 'https://www.orionstarsonline.com/ ',
-    imgSrc: '/images/Work/icon-six.svg',
+    imgSrc: 'images/Work/icon-six.svg',
     desc: 'Download Orion Stars for android and iPhone',
   },
   {
     name: 'FIREKIRIN',
     link: 'https://firekirin.com/ ',
-    imgSrc: '/images/Work/icon-three.svg',
+    imgSrc: 'images/Work/icon-three.svg',
     desc: 'Download and play FireKirin for Android (Apk) iPhones (iSO) and Desktop (windows exe)',
   },
   {
     name: 'JUWA 777',
     link: 'http://dl.juwa777.com/',
-    imgSrc: '/images/Work/icon-two.svg',
+    imgSrc: 'images/Work/icon-two.svg',
     desc: 'Download Juwa Casino App for all apk and iphones',
   },
   {
     name: 'PANDA MASTER',
     link: 'https://pandamaster.vip:8888/index.html',
-    imgSrc: '/images/Work/icon-five.svg',
+    imgSrc: 'images/Work/icon-five.svg',
     desc: 'Download and play Panda Master',
   },
   {
     name: 'GAME VAULT',
     link: 'http://download.gamevault999.com/',
-    imgSrc: '/images/Work/icon-one.svg',
+    imgSrc: 'images/Work/icon-one.svg',
     desc: 'Game Vault App is ready to download and play online. Compatible for apk and iPhones ',
   },
   {
     name: 'ULTRA PANDA',
     link: 'https://www.ultrapanda.mobi/',
-    imgSrc: '/images/Work/icon-four.svg',
+    imgSrc: 'images/Work/icon-four.svg',
     desc: 'No need for Ulta Panda Apk or Ultra Panda iPhone app. Play on the new Ultra Panda Website',
   },
 ];
@@ -108,7 +108,7 @@ const Work = () => {
               </div>
               <div>
                 <Image
-                  src={'/images/Work/bg-arrow.svg'}
+                  src={'images/Work/bg-arrow.svg'}
                   alt="arrow-bg"
                   width={85}
                   height={35}
